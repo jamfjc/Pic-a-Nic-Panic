@@ -1,0 +1,24 @@
+50 50
+tree 200 200 40 40
+tree 400 200 40 40
+tree 600 200 40 40
+tree 200 400 40 40
+tree 400 400 40 40
+tree 600 400 40 40
+mountain 300 100 60 50
+mountain 500 100 60 50
+mountain 300 500 60 50
+mountain 500 500 60 50
+ranger 250 150 h 150 650
+ranger 450 150 h 250 750
+ranger 250 450 h 150 650
+ranger 450 450 h 250 750
+ranger 350 300 v 150 450
+basket 100 300
+basket 700 300
+basket 400 100
+basket 400 500
+basket 150 150
+basket 650 150
+basket 150 450
+basket 650 450
